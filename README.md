@@ -10,8 +10,8 @@ A **regex**, which is short for **regular expression**, is a sequence of charact
 - Matching a URL: `/^(https?:\/\/)?([\da-z\.-]+)\.([a-z\.]{2,6})([\/\w \.-]*)*\/?$/`
 - Matching an HTML Tag: `/^<([a-z]+)([^<]+)*(?:>(.*)<\/\1>|\s+\/>)$/`
 
-<!-- ### Link to Web App:  -->
-<!-- LINK TO DEPLOYMENT HERE -->
+## Link to GitHub Gist:
+[Regex Breakdown: Anatomy of a Hex Regex](https://gist.github.com/AbbyDabbyDooDoesGitHub/03a7b598c464ac1872a66e4309b6a48b)
 
 <!-- ### App Preview: -->
 <!-- Replace with path to screenshot   ![My Password Generator Screenshot](./Assets/MyPasswordGeneratorScreenShot.PNG "My Password Generator Screenshot") -->
